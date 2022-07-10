@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028762535815",
+    "project_id": "rico-my-lesson",
+    "storage_bucket": "rico-my-lesson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028762535815:android:e35809cf0ae157b440b522",
+        "android_client_info": {
+          "package_name": "com.example.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028762535815-r1gbovg15vrrlffvj69vr0rib4dhdb3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm0i_GNAJl-HjL4yNI8y7X-voYxaEzdhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028762535815-r1gbovg15vrrlffvj69vr0rib4dhdb3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
